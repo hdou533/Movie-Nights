@@ -4,7 +4,7 @@
 
 **Features**
 
-1. Search and display movies in card view
+1. Search and display movies in a card view
 2. Retrieve movie information with OMDB API 
 
 **Next Step**
