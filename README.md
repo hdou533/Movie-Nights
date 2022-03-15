@@ -2,6 +2,8 @@
 
 [Movie Nights](https://agitated-tereshkova-639c46.netlify.app/) is a movie searhing Engine written by React and deployed on Netlify. 
 
+![Movie-Nights-screenshot](https://media.giphy.com/media/nwdwnCYLKQCpBgBqjm/giphy.gif)
+
 **Features**
 
 1. Search and display movies in a card view
